@@ -3,7 +3,6 @@
 
 packages: .
           ./liquid-fixpoint
-          ./text-format
 
 package liquid-fixpoint
   flags: devel
